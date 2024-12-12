@@ -1,0 +1,4 @@
+title:{{title}}
+Hello:{{name}}
+welcome to My plateform this is the testing for mail using jinja2 template engine
+best regard:{{name}}
